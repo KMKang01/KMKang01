@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/k_km_01_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=appveyour&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/k_km_01_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=appveyour&logoColor=FFFFFF"/></a>
 
 
 
